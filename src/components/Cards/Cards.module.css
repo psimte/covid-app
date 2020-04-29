@@ -29,4 +29,8 @@
   .card {
     margin: 2% 0 !important;
   }
+
+  .container {
+  margin: 10px 0;
+}
 }
